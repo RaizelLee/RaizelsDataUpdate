@@ -1,0 +1,29 @@
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units display.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units_display.Form1.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units_display.Properties.Resources.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units display.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units display.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\CheckComboBoxTest.CheckedComboBox.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\bin\Debug\Units display.exe.config
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\bin\Debug\Units display.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\bin\Debug\Units display.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units display.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units display.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units_display.Form2.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\test\Units display\Units display\obj\Debug\Units_display.Form3.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\bin\Debug\Units display.exe.config
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\bin\Debug\Units display.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\bin\Debug\Units display.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units display.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\CheckComboBoxTest.CheckedComboBox.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.Form1.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.Form2.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.Form3.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.Properties.Resources.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units display.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units display.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units display.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units display.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.SendForm.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.Editor.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\Units display\Units display\obj\Debug\Units_display.LinkDialog.resources

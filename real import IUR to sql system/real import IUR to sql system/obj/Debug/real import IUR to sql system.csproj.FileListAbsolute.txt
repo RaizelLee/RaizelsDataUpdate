@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.exe.config
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.exe
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.pdb
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real_import_IUR_to_sql_system.Form1.resources
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real_import_IUR_to_sql_system.Properties.Resources.resources
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.exe
+C:\Users\HP\Desktop\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.exe.config
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\bin\Debug\real import IUR to sql system.pdb
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real_import_IUR_to_sql_system.Form1.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real_import_IUR_to_sql_system.Properties.Resources.resources
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.exe
+C:\Users\HP\Desktop\Raizel's Dtaa\new\real import IUR to sql system\real import IUR to sql system\obj\Debug\real import IUR to sql system.pdb
